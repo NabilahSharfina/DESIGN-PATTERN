@@ -21,12 +21,6 @@
     </tbody>
 </table>
 
-<style>
-    td {
-        text-align: center;
-    }
-</style>
-
 ## Builder 
 <p> Tugas 1 : Implementasi Builder Pattern </p>
 <p> Saya mengambil referensi kode program Java dari situs website
